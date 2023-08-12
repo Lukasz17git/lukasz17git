@@ -1,3 +1,5 @@
+![banner (7)](https://github.com/Lukasz17git/lukasz17git/assets/79541002/fd0ae9b7-67ac-4bc7-9299-7e9bc84d3536)
+
 # Hi👋, im Lucas
 
 ### I Enjoy:
