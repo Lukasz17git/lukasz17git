@@ -40,4 +40,4 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukasz17git)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukasz17git&theme=elegant)](https://git.io/streak-stats)
