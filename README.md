@@ -1,5 +1,3 @@
-![—Pngtree—lightning cool background_387305](https://github.com/Lukasz17git/lukasz17git/assets/79541002/5505f23e-9520-4dfc-83a7-bda0e02bb0fe)
-
 # Hi👋, im Lucas
 ### I like to:
 - Create things
