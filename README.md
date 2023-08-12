@@ -1,11 +1,16 @@
-## Hi there👋
+![—Pngtree—lightning cool background_387305](https://github.com/Lukasz17git/lukasz17git/assets/79541002/5505f23e-9520-4dfc-83a7-bda0e02bb0fe)
 
+# Hi👋, im Lucas
 ### I like to:
+- Create things
+- Improve things
+- Make my customers happy
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=2F9CF7&width=435&lines=-+Create+things;-+Improve+things;-+Make+my+customers+happy)](https://git.io/typing-svg)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Technologies and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
