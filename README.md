@@ -5,7 +5,7 @@
 - Improving things
 - Making people I work with/for happy
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=2F9CF7&width=435&lines=-+Serious;-+Ambitious;-+Reliable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=2F9CF7&width=435&lines=-+Confident;-+Ambitious;-+Reliable)](https://git.io/typing-svg)
 
 ---
 
