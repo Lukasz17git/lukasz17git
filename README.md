@@ -1,5 +1,5 @@
 
-![banner (9)](https://github.com/Lukasz17git/lukasz17git/assets/79541002/6be8627e-fe76-4c4b-9454-efbb92645ac7)
+![banner (11)](https://github.com/Lukasz17git/lukasz17git/assets/79541002/e7f8dcea-bba4-4303-bfd0-adb09f10a8c4)
 
 # Hi👋, im Lucas
 
